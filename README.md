@@ -1,2 +1,2 @@
-# brandons_java_projects
-These are a collection of little projects I have made to practice my java skills!
+# Library Management System
+The Library Management System is a console-based Java application designed to manage a library's operations efficiently. The system allows for easy handling of books and member registrations, borrowing and returning books, and maintaining an organized library inventory. This project demonstrates my proficiency in Object-Oriented Programming principles, Java Collections, and basic user interface design using the command-line interface.
