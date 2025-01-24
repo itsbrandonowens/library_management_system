@@ -1,2 +1,8 @@
 # Library Management System
 The Library Management System is a console-based Java application designed to manage a library's operations efficiently. The system allows for easy handling of books and member registrations, borrowing and returning books, and maintaining an organized library inventory. This project demonstrates my proficiency in Object-Oriented Programming principles, Java Collections, and basic user interface design using the command-line interface.
+
+The key features include Book Management: Adding, removing, searching and listing books. Member Management: Registering, removing and listing members. Borrowing and returning books.
+
+This project is structured around core OOP principles, with classes representing the main entities: "Book", "Member" and "Library". Each class encapsulates its data, exposing only necessary methods to interact with the objects. Array Lists are used to manage the collection of members and books, while Streams are used for operations like searching and filtering through the collections. The system uses a text based menu interface with the command line and has input validation and error handling.
+
+This project showcases my ability to design and implement a functional system based on real-world requirements using Java. It highlights my understanding of OOP concepts, my ability to work with Java Collections and Streams, and my proficiency in building user-friendly, console-based applications. This system could be further developed into a full-fledged application with a graphical user interface (GUI) or connected to a database for persistent storage.
